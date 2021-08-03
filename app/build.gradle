@@ -25,6 +25,10 @@ android {
 }
 
 dependencies {
+//    // http://shubhank101.github.io/iOSAndroidChaosOverFlow/2016/06/todo-app-with-firebase-part-1-(Android)
+//    implementation 'com.google.firebase:firebase-core:9.0.1'
+//    implementation 'com.google.firebase:firebase-database:9.0.1'
+
     // Firestore
     implementation 'com.google.firebase:firebase-firestore:23.0.2'
 

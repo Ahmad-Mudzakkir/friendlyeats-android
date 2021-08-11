@@ -34,7 +34,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.firebase.ui.auth.AuthUI;
 import com.google.android.material.snackbar.Snackbar;
-import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.example.fireeats.adapter.RestaurantAdapter;
 import com.google.firebase.example.fireeats.model.Restaurant;
 import com.google.firebase.example.fireeats.util.FirebaseUtil;

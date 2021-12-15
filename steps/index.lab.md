@@ -64,7 +64,7 @@ If you don't have git on your machine, you can also download the code directly f
 
 ### Add Firebase configuration
 
-1. In the  [Firebase console](https://console.firebase.google.com), select **Project Overview** in the left nav. Click the **Android** button to select the platform.  When prompted for a package name use `com.google.firebase.example.fireeats`
+1. In the  [Firebase console](https://console.firebase.google.com), select **Project Overview** in the left nav. Click the **Android** button to select the platform.  When prompted for a package name use `fireistiqamah`
 
 <img src="img/73d151ed16016421.png" alt="73d151ed16016421.png"  width="460.50" />
 

@@ -13,14 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats.viewmodel;
+ package com.google.firebase.example.fireistiqamah.viewmodel;
+
+
 
 import androidx.lifecycle.ViewModel;
-
-import com.google.firebase.example.fireeats.Filters;
+import com.google.firebase.example.fireistiqamah.Filters;
 
 /**
- * ViewModel for {@link com.google.firebase.example.fireeats.MainActivity}.
+ * ViewModel for {@link com.google.firebase.example.fireistiqamah.MainActivity}.
  */
 
 public class MainActivityViewModel extends ViewModel {

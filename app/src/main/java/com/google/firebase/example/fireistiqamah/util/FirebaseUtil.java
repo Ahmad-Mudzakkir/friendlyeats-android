@@ -13,11 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.google.firebase.example.fireeats.util;
+package com.google.firebase.example.fireistiqamah.util;
 
 import com.firebase.ui.auth.AuthUI;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.example.fireeats.BuildConfig;
+import com.google.firebase.example.fireistiqamah.BuildConfig;
 import com.google.firebase.firestore.FirebaseFirestore;
 
 /**
@@ -27,8 +27,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 public class FirebaseUtil {
 
     /** Use emulators only in debug builds **/
-    private static final boolean sUseEmulators = false;
-//    private static final boolean sUseEmulators = BuildConfig.DEBUG;
+//    private static final boolean sUseEmulators = false;
+    private static final boolean sUseEmulators = BuildConfig.DEBUG;
 
     private static FirebaseFirestore FIRESTORE;
     private static FirebaseAuth AUTH;

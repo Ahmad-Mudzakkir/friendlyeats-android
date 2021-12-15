@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats;
+ package com.google.firebase.example.fireistiqamah;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -26,7 +26,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
-import com.google.firebase.example.fireeats.model.Restaurant;
+import com.google.firebase.example.fireistiqamah.model.Restaurant;
 import com.google.firebase.firestore.Query;
 
 /**

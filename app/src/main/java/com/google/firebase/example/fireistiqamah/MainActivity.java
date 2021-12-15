@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats;
+ package com.google.firebase.example.fireistiqamah;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -34,11 +34,11 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.firebase.ui.auth.AuthUI;
 import com.google.android.material.snackbar.Snackbar;
-import com.google.firebase.example.fireeats.adapter.RestaurantAdapter;
-import com.google.firebase.example.fireeats.model.Restaurant;
-import com.google.firebase.example.fireeats.util.FirebaseUtil;
-import com.google.firebase.example.fireeats.util.RestaurantUtil;
-import com.google.firebase.example.fireeats.viewmodel.MainActivityViewModel;
+import com.google.firebase.example.fireistiqamah.adapter.RestaurantAdapter;
+import com.google.firebase.example.fireistiqamah.model.Restaurant;
+import com.google.firebase.example.fireistiqamah.util.FirebaseUtil;
+import com.google.firebase.example.fireistiqamah.util.RestaurantUtil;
+import com.google.firebase.example.fireistiqamah.viewmodel.MainActivityViewModel;
 import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;

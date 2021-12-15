@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats.adapter;
+ package com.google.firebase.example.fireistiqamah.adapter;
 
 import android.util.Log;
 

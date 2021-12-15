@@ -13,12 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats.util;
+ package com.google.firebase.example.fireistiqamah.util;
 
 import android.content.Context;
 
-import com.google.firebase.example.fireeats.R;
-import com.google.firebase.example.fireeats.model.Restaurant;
+import com.google.firebase.example.fireistiqamah.R;
+import com.google.firebase.example.fireistiqamah.model.Restaurant;
 
 import java.util.Arrays;
 import java.util.Locale;

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats.adapter;
+ package com.google.firebase.example.fireistiqamah.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,8 +23,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.google.firebase.example.fireeats.R;
-import com.google.firebase.example.fireeats.model.Rating;
+import com.google.firebase.example.fireistiqamah.R;
+import com.google.firebase.example.fireistiqamah.model.Rating;
 import com.google.firebase.firestore.Query;
 
 import me.zhanghai.android.materialratingbar.MaterialRatingBar;
